@@ -44,3 +44,8 @@ y mayor calidad de construcción.
 
 
 Ejemplo: Wacom Intuos Pro, Wacom Cintiq Pro
+
+
+<p align="center">
+  <img src="/img/tipos.jpg" alt="![economia](/img/tipos.jpg)"/>
+</p>
