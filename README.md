@@ -1,7 +1,7 @@
 # FHW-TabletaDigital
 
 <p align="center">
-  <img src="/img/portadagrafica.webp" alt="![economia](/img/portadagrafica.webp)"/>
+  <img src="/img/portada.gif" alt="![economia](/img/portada.gif)"/>
 </p>
 
 
