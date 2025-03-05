@@ -31,6 +31,10 @@
 
 ## Referencias
 
+![Mastoner](https://www.mastoner.com/blog/para-que-sirve-tableta-grafica-usos/)
+
+
+![Blog Orange](https://blog.orange.es/consejos-y-trucos/guia-compra-tableta-grafica/)
 
 
 ## Autor
