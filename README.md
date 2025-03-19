@@ -6,7 +6,7 @@
 
 
 
-!(Presentación)[https://www.canva.com/design/DAGhcGUepIQ/XCb7HKEQQ1nwkiFDtVBKgg/edit?utm_content=DAGhcGUepIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+![Presentación](https://www.canva.com/design/DAGhcGUepIQ/XCb7HKEQQ1nwkiFDtVBKgg/edit?utm_content=DAGhcGUepIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
